@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_from",
+						"type": "address"
+					},
+					{
+						"internalType": "address",
+						"name": "_to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_id",
+						"type": "uint256"
+					}
+				],
+				"name": "transferFrom",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Millow/contracts/Escrow.sol": "IERC721"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Millow/contracts/Escrow.sol": {
+			"keccak256": "0xe876b18d332c63c205f1dab4f918b9304f0d966601407447185499030cc4997a",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://c58bf8721a31971db757cd5bc0de8c4ec957b13f31a7039df37cfded81428652",
+				"dweb:/ipfs/QmeF5weH5qUeaACCmWhgeSzQnKWFXpbbTRWqVrqmScX3kz"
+			]
+		}
+	},
+	"version": 1
+}
