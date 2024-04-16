@@ -1,0 +1,33 @@
+{
+    "name": "WA NAture Home",
+    "addres": "183 Wodland drive, Camano Island, WA 98282",
+    "decription": "Comfy island home on Camano Island",
+    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/3.png",
+    "id": "3",
+    "attribute": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 10
+        },
+        {
+            "trait_type": "Types of Residence",
+            "value": "Single Family Residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 3
+        },
+        {
+            "trail_type": "Bathrooms",
+            "value": 5
+        },
+        {
+            "trial_type": "Square Feet",
+            "value": 2202
+        },
+        {
+            "trail_type": "Year Built",
+            "value": 2025
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{7
+    "name": "Architectur CA Modern House",
+    "address": "70780 TAmarish Ln, Rancho Mirage",
+    "description": "Beautiful modern home in Rancho Mirage",
+    "image": "https://ipfs.io/ipfs/QmQUozrHLAusXDxrvsESJ3PYB3rUeUuBAvVWw6nop2uu7c/2.png",
+    "id": "2",
+    "attribute": [
+        {
+            "trail_type": "Purchase Price",
+            "value": 15
+        },
+        {
+            "trail_Type": "Types of Residence",
+            "value": "Songle family residence"
+        },
+        {
+            "trail_Type": "Bed Rooms",
+            "value": 4
+        },
+        {
+            "trail_Type": "Bthrooms",
+            "value": 4
+        },
+        {
+            "trail_Type": "Square foot",
+            "value": 3980
+        },
+        {
+            "trail_type": "Year Built",
+            "value": 2024
+        }
+    ]
+}

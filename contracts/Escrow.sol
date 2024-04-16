@@ -67,12 +67,12 @@ contract Escrow {
         buyer[_nftID] = _buyer;
     }
 
-    // Put Under Comtract (only buyer-payable escrow)
+    // Put Under Contract (only buyer-payable escrow)
     function depositEarnest(uint256 _nftID) public payable onlyBuyer(_nftID) {
        require(msg.value >= escrowAmount[_nftID]);
     }
 
-    // Update Inspection StaTus (only inspector)
+    // Update Inspection Status (only inspector)
     function updateInspectionStatus(uint256 _nftID, bool _passed)
         public
         onlyInspector
